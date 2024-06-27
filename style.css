@@ -1,0 +1,64 @@
+body {
+    font-family: sans-serif;
+}
+header{
+
+        background-color:#b11d5b;
+        color: black;
+        padding:20px
+}
+
+header a{
+  color: #b11d5b;
+  background-color: white;
+}
+ h1 {
+
+    color:#db005B;
+    font-size:40px;
+
+}
+footer{
+
+        color: #db005B;
+  background-color: antiquewhite; 
+       padding:5px; 
+       border-radius: 10px;
+    }
+  nav{
+
+    text-align: center;
+    padding:5px;
+    margin:10px;
+
+  }
+
+nav a{
+
+    text-decoration:none;
+    background-color: #862D5B;
+    color:white;
+    padding: 5px;
+    margin:10px;
+    border-radius:10px;
+}
+
+.prodana{
+
+    padding:5px;
+    margin:10px;
+    background-color:#db005B;
+    color: black;
+    text-decoration:none;
+    border-radius:10px;
+}
+
+h2{
+
+color:#b11d5b;
+text-decoration:none;
+text-align: center;
+font-size: 50px;
+}
+
+
